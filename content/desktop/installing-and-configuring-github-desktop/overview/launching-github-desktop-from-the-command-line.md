@@ -30,14 +30,14 @@ versions:
 
 {% windows %}
 
-1. Open a command prompt.
+1. In the main menu, open a command prompt.
 2. {% data reusables.desktop.launch-desktop-from-command-line %}
 
   ```shell
   C:\Users\octocat> github PATH\TO\REPO
   ```
 
- You can also change to your repository path and then type `github .` to open that repository.
+ You can also change to your repository path and then type `github .` to open that repository. This will open Terminal.
 
   ```shell
   C:\Users\octocat> cd REPO\MY-REPO
